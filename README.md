@@ -1,8 +1,8 @@
-# HKU-COMP3278-StudentCenterGUI
+# HKU-COMP3278-StudentCenter
 
 # Introduction
 
-This is student center software's GUI based on python tkinter (only front end). If you take my code as reference, please be noticed that the UI thread and database handler are not separated (this is wrong).
+This is student center software's GUI based on python tkinter (only front end).
 
 # Preview
 
