@@ -2,7 +2,9 @@
 
 # Introduction
 
-This is student center software's GUI based on python tkinter (only front end).
+This is student center software's GUI based on python tkinter.
+
+The database part is not done by me, so I didn't put it here.
 
 # Preview
 
